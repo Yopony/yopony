@@ -1,2 +1,2 @@
-WayCoin is a PoS-based cryptocurrency.
+YoPony is a PoS X11 cryptocurrency.
 
